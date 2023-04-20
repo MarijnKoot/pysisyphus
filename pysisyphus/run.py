@@ -97,6 +97,7 @@ CALC_DICT = {
     "pyxtb": PyXTB,
     "remote": Remote,
     "turbomole": Turbomole,
+    "votca": VOTCA,
     "xtb": XTB,
 }
 
@@ -1872,7 +1873,7 @@ def do_clean(force=False):
 def print_header():
     """Generated from https://asciiartgen.now.sh/?s=pysisyphus&style=colossal"""
     normal_logo = """                           d8b                            888
-                           Y8P                            888
+                           XXX                            888
                                                           888
 88888b.  888  888 .d8888b  888 .d8888b  888  888 88888b.  88888b.  888  888 .d8888b
 888 "88b 888  888 88K      888 88K      888  888 888 "88b 888 "88b 888  888 88K

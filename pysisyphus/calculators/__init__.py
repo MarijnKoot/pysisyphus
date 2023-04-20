@@ -31,6 +31,7 @@ __all__ = [
     "TIP3P",
     "Turbomole",
     "TransTorque",
+    "VOTCA",
     "XTB",
 ]
 
@@ -65,6 +66,7 @@ from pysisyphus.calculators.Remote import Remote
 from pysisyphus.calculators.TIP3P import TIP3P
 from pysisyphus.calculators.TransTorque import TransTorque
 from pysisyphus.calculators.Turbomole import Turbomole
+from pysisyphus.calculators.VOTCA import VOTCA
 from pysisyphus.calculators.XTB import XTB
 
 
