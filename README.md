@@ -7,7 +7,7 @@
 [![DOI](https://zenodo.org/badge/96281078.svg)](https://zenodo.org/badge/latestdoi/96281078)
 [![built with nix](https://builtwithnix.org/badge.svg)](https://builtwithnix.org)
 
-`pysisyphus` is a software-suite for the exploration of potential energy surfaces in ground-
+`pysisyphus` with VOTCA is a software-suite for the exploration of potential energy surfaces in ground-
 and **excited states**. It implements several methods to search for stationary points
 (minima and first order saddle points) and the calculation of minimum energy paths by means
 of IRC and Chain of States methods like Nudged Elastic Band and Growing String.
